@@ -63,6 +63,7 @@
 |------|------|------|------|------|------|
 | **RoboClaw: Agentic Framework for Robotic Tasks** | arXiv | 2026.03 | [![arXiv](https://img.shields.io/badge/2603.11558-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.11558) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/MINT-SJTU/RoboClaw) | 纠缠动作对；成功率 +25%；人力 −53.7% |
 | **ROSClaw: Bridging OpenClaw with ROS 2** | GitHub | 2026.03 | [![Blog](https://img.shields.io/badge/Blog-4CAF50?style=flat-square)](https://openclaws.io/blog/openclaw-robotics-embodied-ai) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/PlaiPin/rosclaw) | SF Hackathon 冠军；Unitree G1/H1、DJI；可在 RPi4 运行 |
+| **RoClaw: Physical Embodiment for OpenClaw** | GitHub | 2026.03 | [![Blog](https://img.shields.io/badge/Blog-4CAF50?style=flat-square)](https://evoailabs.medium.com/the-rapid-transformation-of-openclaw-into-a-physical-ai-powerhouse-911d8546c1c0) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/EvolvingAgentsLabs/RoClaw) | 双脑字节码架构；体感固件；开源硬件 CAD 与仿真环境 |
 
 ### Agent 社会行为
 
@@ -189,6 +190,16 @@ flowchart LR
 | [mcp-bridge-openclaw](https://www.npmjs.com/package/mcp-bridge-openclaw) | TypeScript | MCP 多服务器桥接 |
 | [amor71/openclaw-mcp](https://github.com/amor71/openclaw-mcp) | TypeScript | 原生 MCP 客户端 |
 | [henry-y/openclaw-paper-tools](https://github.com/henry-y/openclaw-paper-tools) | Python | OpenClaw arXiv 论文阅读助手 |
+
+</details>
+
+<details>
+<summary><b>自动化科研工具</b></summary>
+
+| 名称 | 链接 | 说明 |
+|------|------|------|
+| AutoResearchClaw | [GitHub](https://github.com/aiming-lab/AutoResearchClaw) | 全自动 23 阶段科研流水线：idea → 实验 → 会议论文；含多 Agent 同行评审 |
+| OpenClaw-Medical-Skills | [GitHub](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | 869 个医疗 AI Skill，覆盖临床、基因组学、药物发现与生物信息学 |
 
 </details>
 
